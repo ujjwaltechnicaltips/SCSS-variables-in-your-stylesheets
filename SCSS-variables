@@ -1,0 +1,18 @@
+
+
+_____________________________________________________________
+index.html
+-------------
+<header>
+	<h2>Header</h2>
+
+</header>
+
+main.scss
+-------------
+$txt-color:yellow; $header-bg-color:red; 
+header
+{
+	color:$txt-color; background-color:$header-bg-color;
+}
+
